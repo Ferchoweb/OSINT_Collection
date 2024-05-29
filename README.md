@@ -694,7 +694,6 @@ This is a maintained collection of free actionable resources for those conductin
 - [Telesco](https://telesco.pe/) (telesco.pe/telegram-channel-here)
 
 #### WhatsApp
-- [Groupfinder](http://groupfinder.me)
 
 #### Twitter
 - [qrt tweets](http://qtrtweets.com/twitter/)
