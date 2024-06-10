@@ -578,6 +578,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Email Validator Tool](http://e-mailvalidator.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Have I Been Sold](https://haveibeensold.app/)
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 - [MailTester](http://mailtester.com/testmail.php)
 - [TCIPUTILS.com Email Test](http://www.tcpiputils.com/email-test)
 - [ThatsThem](https://thatsthem.com/reverse-email-lookup)
